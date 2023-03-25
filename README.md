@@ -1,5 +1,5 @@
  ## About me
-Estudante de Sistemas de Informação em busca de conhecimento e experiência no desenvolvimento de software. Atualmente, estou aprendendo e praticando habilidades em diversas linguagens de programação e frameworks/bibliotecas. Busco oportunidades de estágio para colaborar em projetos desafiadores e expandir meus conhecimentos na área.
+Estudante de Sistemas  busca de conhecimento e experiência no desenvolvimento de software. Atualmente, estou aprendendo e praticando habilidades em diversas linguagens de programação e frameworks/bibliotecas. Busco oportunidades de estágio para colaborar em projetos desafiadores e expandir meus conhecimentos na área.
 #
 
 
